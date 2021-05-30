@@ -1,0 +1,26 @@
+{
+  "name": "webdtrial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mj335/webDTrial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mj335/webDTrial/issues"
+  },
+  "homepage": "https://github.com/mj335/webDTrial#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7"
+  }
+}
